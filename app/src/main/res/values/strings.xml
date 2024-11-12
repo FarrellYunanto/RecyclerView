@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RecyclerView</string>
+    <string name="app_name">conListView</string>
 
     <string-array name="namaWayang">
         <item>Bima</item>

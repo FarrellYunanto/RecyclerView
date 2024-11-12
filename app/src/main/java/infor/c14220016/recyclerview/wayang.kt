@@ -9,9 +9,5 @@ data class wayang(
     var deskripsi : String
 )
 
-class adapterRecView(private val listwayang: ArrayList<wayang>): RecyclerView
-.Adapter<adapterRecView.ListViewHodler>(){
-
-}
 
 
